@@ -1,0 +1,9 @@
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\bin\Debug\EightQueensGA.exe
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\bin\Debug\EightQueensGA.pdb
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\obj\Debug\EightQueensGA.csprojAssemblyReference.cache
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\obj\Debug\EightQueensGA.Board.resources
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\obj\Debug\EightQueensGA.MainForm.resources
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\obj\Debug\EightQueensGA.Properties.Resources.resources
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\obj\Debug\EightQueensGA.csproj.GenerateResource.cache
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\obj\Debug\EightQueensGA.exe
+C:\Users\salsabil\Desktop\EightQueensGA\Backup\EightQueensGA\obj\Debug\EightQueensGA.pdb
