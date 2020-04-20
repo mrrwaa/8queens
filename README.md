@@ -26,3 +26,4 @@ class Board: The class that is responsible for graphical view and operations of 
 Variables
 private const int <code>MAX_FIT = 28; holds the maximum fitness.
  
+YouTube video link: https://youtu.be/QvdNLCEmpHE
